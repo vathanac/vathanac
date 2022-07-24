@@ -30,9 +30,7 @@
 <a href="https://www.facebook.com/nsvathanak" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.reddit.com/user/Vathanak7" target="_blank">
-<img src=https://img.shields.io/badge/Nak-reddit-orange alt=reddit style="margin-bottom: 5px; width:11%" />
-</a>  
+ 
 <br/>  
 
 ##
