@@ -16,22 +16,22 @@
 ## GitHub State
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vathanac&theme=prussian&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vathanac&theme=tokyonight&show_icons=true&hide=prs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac&theme=prussian&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac&theme=tokyonight&layout=compact" />
 </a>
 
-  <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vathanac&theme=prussian&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+  
 
 
 ## Repositories
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vathanac&repo=profile_app&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vathanac&repo=profile_app&theme=react" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vathanac&repo=shopping_list&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vathanac&repo=shopping_list&theme=react" />
 </a>
 
 
