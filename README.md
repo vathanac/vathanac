@@ -15,7 +15,7 @@
 
 ## GitHub State
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vathanac&theme=prussian&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vathanac&theme=prussian&show_icons=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
