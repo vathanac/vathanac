@@ -15,8 +15,16 @@
 
 ## GitHub State
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vathanac&theme=prussian&show_icons=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vathanac&theme=prussian&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vathanac&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## Repositories
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vathanac&repo=profile_app&theme=blueberry" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vathanac&repo=shopping_list&theme=blueberry" />
+</a>
 
 
 
