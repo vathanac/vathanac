@@ -53,6 +53,5 @@
 
 ##
 
-
-<img src="https://gifdb.com/images/high/anime-fight-mikasa-ackerman-so3mf70oda4maosu.webp" style="width:100%;" />
+![hippo](https://gifdb.com/images/high/anime-fight-mikasa-ackerman-so3mf70oda4maosu.webp)
 
