@@ -7,11 +7,11 @@
 
 
 
-## Languages
+## Languages and Framework
 
-* 💻 Java / C++ / Python
+* 💻 Java / Python
 * 📱 Dart
-* 🕸️ HTML / CSS / JS
+* 🕸️ HTML / CSS / JS 
 
 ## GitHub State
 
