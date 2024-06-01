@@ -7,11 +7,41 @@
 
 
 
-## Languages and Framework
+#### Languages
 
-* 💻 Java / Python
-* 📱 Dart
-* 🕸️ HTML / CSS / JS 
+![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&style=for-the-badge&color=1f1e34&label=%20)
+![Dart](https://img.shields.io/static/v1?message=Dart&logo=dart&style=for-the-badge&color=1f1e34&label=%20)
+![C#](https://img.shields.io/static/v1?message=C%23&logo=c-sharp&style=for-the-badge&color=1f1e34&label=%20)
+![C++](https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&style=for-the-badge&color=1f1e34&label=%20)
+
+#### Code styling
+
+![Eslint](https://img.shields.io/static/v1?message=Eslint&logo=eslint&style=for-the-badge&color=1f1e34&label=%20)
+
+#### CI/CD
+
+![Github Actions](https://img.shields.io/static/v1?message=Github%20Actions&logo=github-actions&style=for-the-badge&color=1f1e34&label=%20)
+![GitLab CI](https://img.shields.io/static/v1?message=GitLab%20CI&logo=gitlab&style=for-the-badge&color=1f1e34&label=%20)
+
+#### VCS, Server and Containerization
+
+![Git](https://img.shields.io/static/v1?message=Git&logo=git&style=for-the-badge&color=1f1e34&label=%20)
+![Docker](https://img.shields.io/static/v1?message=Docker&logo=docker&style=for-the-badge&color=1f1e34&label=%20)
+![NodeJS](https://img.shields.io/static/v1?message=node&logo=node.js&style=for-the-badge&color=1f1e34&label=%20)
+
+#### Scripting
+
+![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&style=for-the-badge&color=1f1e34&label=%20)
+![TypeScript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&style=for-the-badge&color=1f1e34&label=%20)
+![Python3](https://img.shields.io/static/v1?message=python&logo=python&style=for-the-badge&color=1f1e34&label=%20)
+![CSS3](https://img.shields.io/static/v1?message=CSS3&logo=css3&style=for-the-badge&color=1f1e34&label=%20)
+![HTML5](https://img.shields.io/static/v1?message=HTML5&logo=html5&style=for-the-badge&color=1f1e34&label=%20)
+
+#### Shell
+
+![Bash](https://img.shields.io/static/v1?message=Bash&logo=gnu-bash&style=for-the-badge&color=1f1e34&label=%20)
+![PowerShell](https://img.shields.io/static/v1?message=PowerShell&logo=powershell&style=for-the-badge&color=1f1e34&label=%20)
+
 
 ## GitHub State
 
