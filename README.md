@@ -7,12 +7,13 @@
 
 
 
-#### Languages
+#### Languages & Framework
 
-![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&style=for-the-badge&color=1f1e34&label=%20)
 ![Dart](https://img.shields.io/static/v1?message=Dart&logo=dart&style=for-the-badge&color=1f1e34&label=%20)
 ![C#](https://img.shields.io/static/v1?message=C%23&logo=c-sharp&style=for-the-badge&color=1f1e34&label=%20)
 ![C++](https://img.shields.io/static/v1?message=C%2B%2B&logo=cplusplus&style=for-the-badge&color=1f1e34&label=%20)
+![Flutter](https://img.shields.io/static/v1?message=Flutter&logo=flutter&style=for-the-badge&color=1f1e34&label=%20)
+![React](https://img.shields.io/static/v1?message=react&logo=react&style=for-the-badge&color=1f1e34&label=%20)
 
 #### Code styling
 
